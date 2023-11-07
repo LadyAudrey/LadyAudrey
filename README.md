@@ -1,21 +1,21 @@
 # Hello there!
 
-## My name is Audrey Evergreene, I am changing careers from healthcare into software engineering, focused on Front End web-develoment, based in Portland, Or.
+## My name is Audrey Evergreene. I am changing careers from healthcare into software engineering, focused on Front End web-develoment and based in Portland, Or.
 
-Learning in progress: React, Next, CSS Frameworks, OOP and Design Patterns, Design, Data Structures and Algorithms.
+Learning in progress: React, Next, CSS Frameworks, Design, OOP and Design Patterns, Data Structures and Algorithms.
 
 ### Main Project in the Works:
 #### Debugging the Coders' Mind - A coding educational tool
   
-TypeScript | React | Next | NodeJs | Taliwind | Supabase | AuthoO | Vercel
+* *TypeScript | React | Next | NodeJs | Taliwind | Supabase | AuthoO | Vercel* *
     
 Goal: Many beginner programmers get caught in intense shame spirals while learning how to code. Applying my previous knowledge about thoughtwork, effecient learning and boosting executive functioning, I hope to help new developers have a kinder learning curve while learning their first language.
     
 Built in collaboration with an amazing Fullstack developer, Kenson Johnson (https://github.com/kensonjohnson) . It is connected to the backend, and deployed, but currently the content is minimal and I still have a lot of components to build.
 
-Live Site- https://debugging-the-coders-mind.vercel.app/login
+[Live Site] (https://debugging-the-coders-mind.vercel.app/login)
     
-Github Repo- https://github.com/LadyAudrey/debugging_the_coders_mind
+[Github Repo] (https://github.com/LadyAudrey/debugging_the_coders_mind)
 
 
 ### Techstack:
