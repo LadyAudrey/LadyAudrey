@@ -1,12 +1,13 @@
-#Hello there!
+# Hello there!
 
-##My name is Audrey Evergreene, I am changing careers from healthcare into software engineering, focused on front end web-develoment, based in Portland, Or.
+## My name is Audrey Evergreene, I am changing careers from healthcare into software engineering, focused on front end web-develoment, based in Portland, Or.
 Check out my Porfolio here.
 
 Learning in progress: React, Next, CSS Frameworks, OOP and Design Patterns, Design, Data Structures and Algorithms.
 
 ### Main Project in the Works:
-  +Debugging the Coders' Mind - coding educational tool | TypeScript | React | Next | NodeJs | Taliwind | Supabase | AuthoO | Vercel
+  +Debugging the Coders' Mind - coding educational tool
+  TypeScript | React | Next | NodeJs | Taliwind | Supabase | AuthoO | Vercel
     
     Goal: Many beginner programmers get caught in intense shame spirals while learning how to code. Applying my previous knowledge about thoughtwork, effecient learning and boosting executive functioning, I hope to help new developers have a kinder learning curve while learning their first language.
     
@@ -17,19 +18,19 @@ Learning in progress: React, Next, CSS Frameworks, OOP and Design Patterns, Desi
     Github Repo- https://github.com/LadyAudrey/debugging_the_coders_mind
 
 
-###Techstack:
+### Techstack:
 
-Languages
+#### Languages
 JavaScript | HTML | CSS | SQL | Python | Kotlin
 
-Frontend Tools
+#### Frontend Tools
 React | Next.js | Vite | Tailwind | Bootstrap | Vanilla CSS
 
-###Other Tools
+#### Other Tools
 
 Git | VSCode | Figma | Canva | GIMP
 
-###Ongoing Projects:
+### Ongoing Projects:
  +Self Scribe - Custom TDL app to correlate symptoms against habits | JavaScript | React | Next | NodeJs | Taliwind | Express
       
     Goal: To correlate symptoms against routine behavior in order to assess effectiveness of personal habits or food allergies
@@ -40,7 +41,7 @@ Git | VSCode | Figma | Canva | GIMP
 
     Github Repo- https://github.com/LadyAudrey/self_scribe
 
-###Projects that Got **REWARDS**:
+### Projects that Got **REWARDS**:
 
  +Git Read - React website to read multiple files of a Github repo simultaneously | JavaScript | React | GitHubAPI | Vercel | GraphQL | react-query
       
@@ -68,7 +69,7 @@ Git | VSCode | Figma | Canva | GIMP
     
     Github Repo- https://github.com/LadyAudrey/portfolio
 
-###Projects on Hold:
+### Projects on Hold:
 
      +Taylor Swift fan site - Fun site to engage with other Swiftie fans | Typescript | React | Next | Taliwind
     
@@ -78,14 +79,14 @@ Git | VSCode | Figma | Canva | GIMP
     
     Github Combo Repo- https://github.com/LadyAudrey/TaysPenthouse
 
-###Fun Facts
+### Fun Facts
 
     A music major in French Horn performance in university
     Really enjoy PNW wilderness and camping
     Digital artist, always exploring, experimenting and learning
     Retired Massage Therapist, Personal Trainer and Wellness Clinic Manager
 
-###Social
+### Social
 
 Twitter- https://twitter.com/AudreyG45731656
 LinkedIn- https://www.linkedin.com/in/audrey-evergreene/
