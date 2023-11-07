@@ -11,11 +11,9 @@ Learning in progress: React, Next, CSS Frameworks, Design, OOP and Design Patter
     
 Goal: Many beginner programmers get caught in intense shame spirals while learning how to code. Applying my previous knowledge about thoughtwork, effecient learning and boosting executive functioning, I hope to help new developers have a kinder learning curve while learning their first language.
     
-Built in collaboration with an amazing Fullstack developer, Kenson Johnson @kensonjohnson. It is connected to the backend, and deployed, but currently the content is minimal and I still have a lot of components to build.
+Built in collaboration with an amazing Fullstack developer, Kenson Johnson @kensonjohnson. It is connected to the backend, and deployed, but currently the content is minimal and a lot of components to build.
 
-[Live Site](https://debugging-the-coders-mind.vercel.app/login)
-    
-[Github Repo](https://github.com/LadyAudrey/debugging_the_coders_mind)
+[Live Site](https://debugging-the-coders-mind.vercel.app/login) [Github Repo](https://github.com/LadyAudrey/debugging_the_coders_mind)
 
 
 ### Techstack:
@@ -53,8 +51,7 @@ Goal: To correlate symptoms against routine behavior in order to assess effectiv
 
 Completed! This was a team project that won **Best Use of Github** in the *Hacks for Hackers* Hackathon (July 2023)
 
-[Github Repo](https://github.com/LadyAudrey/gitread)
-[Hackathon entry](https://devpost.com/software/gitread)
+[Github Repo](https://github.com/LadyAudrey/gitread) [Hackathon entry](https://devpost.com/software/gitread)
 
 #### SelfWatch - React website to read multiple files of a Github repo simultaneously
  
@@ -65,7 +62,7 @@ Goal: To track frequency of self care activities
 Team project that won __"Best Use of Github"__ in the "Tech Together Online* Hackathon (August 2023). I have used the UI Design in Self-Watch (see below)
 
 [Github Repo](https://github.com/akebu6/SelfWatch)
-Hackathon write up- https://devpost.com/software/selfwatch
+[Hackathon write up](https://devpost.com/software/selfwatch)
 
 #### Portfolio - Site to showcase Frontend skills and projects
  
@@ -87,7 +84,7 @@ Goal: Website to explore dynamic web pages and to display art of Taylor Swift. C
 
 Combining 2 Vanilla JS sites into one React site. Plan to restart repo with Next and Tailwind.
     
-Github Combo Repo- https://github.com/LadyAudrey/TaysPenthouse
+[Github Combo Repo](https://github.com/LadyAudrey/TaysPenthouse)
 
 ### Fun Facts
 
