@@ -7,7 +7,7 @@ Learning in progress: React, Next, CSS Frameworks, OOP and Design Patterns, Desi
 ### Main Project in the Works:
   Debugging the Coders' Mind - A coding educational tool
   
-  TypeScript | React | Next | NodeJs | Taliwind | Supabase | AuthoO | Vercel
+TypeScript | React | Next | NodeJs | Taliwind | Supabase | AuthoO | Vercel
     
     Goal: Many beginner programmers get caught in intense shame spirals while learning how to code. Applying my previous knowledge about thoughtwork, effecient learning and boosting executive functioning, I hope to help new developers have a kinder learning curve while learning their first language.
     
@@ -31,7 +31,9 @@ React | Next.js | Vite | Tailwind | Bootstrap | Vanilla CSS
 Git | VSCode | Figma | Canva | GIMP
 
 ### Ongoing Projects:
- +Self Scribe - Custom TDL app to correlate symptoms against habits | JavaScript | React | Next | NodeJs | Taliwind | Express
+ +Self Scribe - Custom TDL app to correlate symptoms against habits
+ 
+ JavaScript | React | Next | NodeJs | Taliwind | Express
       
     Goal: To correlate symptoms against routine behavior in order to assess effectiveness of personal habits or food allergies
 
@@ -43,7 +45,9 @@ Git | VSCode | Figma | Canva | GIMP
 
 ### Projects that Got **REWARDS**:
 
- +Git Read - React website to read multiple files of a Github repo simultaneously | JavaScript | React | GitHubAPI | Vercel | GraphQL | react-query
+ +Git Read - React website to read multiple files of a Github repo simultaneously
+ 
+ JavaScript | React | GitHubAPI | Vercel | GraphQL | react-query
       
     Goal: To correlate symptoms against routine behavior in order to assess effectiveness of personal habits or food allergies
 
@@ -52,7 +56,9 @@ Git | VSCode | Figma | Canva | GIMP
     Github Repo- https://github.com/LadyAudrey/gitread
     Hackathon write up- https://devpost.com/software/gitread
 
- +SelfWatch - React website to read multiple files of a Github repo simultaneously | JavaScript | React
+ +SelfWatch - React website to read multiple files of a Github repo simultaneously
+ 
+ JavaScript | React | Express
       
     Goal: To track frequency of self care activities
 
@@ -61,7 +67,9 @@ Git | VSCode | Figma | Canva | GIMP
     Github Repo- https://github.com/akebu6/SelfWatch
     Hackathon write up- https://devpost.com/software/selfwatch
 
- +Portfolio - Site to showcase Frontend skills and projects | Typescript | React | Next | Taliwind
+ +Portfolio - Site to showcase Frontend skills and projects
+ 
+ Typescript | React | Next | Taliwind
       
     Goal: Beautiful UI to showcase my portfolio
     
@@ -71,7 +79,9 @@ Git | VSCode | Figma | Canva | GIMP
 
 ### Projects on Hold:
 
-     +Taylor Swift fan site - Fun site to engage with other Swiftie fans | Typescript | React | Next | Taliwind
+     +Taylor Swift fan site - Fun site to engage with other Swiftie fans
+     
+     Typescript | React | Next | Taliwind
     
     Goal: Website to explore dynamic web pages and to display art of Taylor Swift. Currently combining 2 vanilla Js sites into 1 React/ Next site
 
