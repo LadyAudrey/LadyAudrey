@@ -13,9 +13,9 @@ Goal: Many beginner programmers get caught in intense shame spirals while learni
     
 Built in collaboration with an amazing Fullstack developer, Kenson Johnson (https://github.com/kensonjohnson) . It is connected to the backend, and deployed, but currently the content is minimal and I still have a lot of components to build.
 
-[Live Site] (https://debugging-the-coders-mind.vercel.app/login)
+[Live Site](https://debugging-the-coders-mind.vercel.app/login)
     
-[Github Repo] (https://github.com/LadyAudrey/debugging_the_coders_mind)
+[Github Repo](https://github.com/LadyAudrey/debugging_the_coders_mind)
 
 
 ### Techstack:
