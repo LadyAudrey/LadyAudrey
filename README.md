@@ -11,11 +11,11 @@ TypeScript | React | Next | NodeJs | Taliwind | Supabase | AuthoO | Vercel
     
 Goal: Many beginner programmers get caught in intense shame spirals while learning how to code. Applying my previous knowledge about thoughtwork, effecient learning and boosting executive functioning, I hope to help new developers have a kinder learning curve while learning their first language.
     
-    Built in collaboration with an amazing Fullstack developer, Kenson Johnson (https://github.com/kensonjohnson) . It is connected to the backend, and deployed, but currently the content is minimal and I still have a lot of components to build.
+Built in collaboration with an amazing Fullstack developer, Kenson Johnson (https://github.com/kensonjohnson) . It is connected to the backend, and deployed, but currently the content is minimal and I still have a lot of components to build.
 
-    Live Site- https://debugging-the-coders-mind.vercel.app/login
+Live Site- https://debugging-the-coders-mind.vercel.app/login
     
-    Github Repo- https://github.com/LadyAudrey/debugging_the_coders_mind
+Github Repo- https://github.com/LadyAudrey/debugging_the_coders_mind
 
 
 ### Techstack:
