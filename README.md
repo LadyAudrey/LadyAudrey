@@ -91,7 +91,11 @@ Combining 2 Vanilla JS sites into one React site. Plan to restart repo with Next
 A music major in French Horn performance in University 📯
 Really enjoy PNW wilderness and camping 🌲
 Digital artist, always exploring, experimenting and learning
-Retired Massage Therapist, Personal Trainer and Wellness Clinic Manager
+Retired Massage Therapist, Per![risingSun](https://github.com/LadyAudrey/LadyAudrey/assets/105085549/5d83b6cd-0c0b-4eea-ae73-50e84725896a)
+sonal Trainer and Wellness Clinic Manager
+
+![Digital artwork of an abstract sunrise](![risingSun](https://github.com/LadyAudrey/LadyAudrey/assets/105085549/4f053917-3144-4382-b9c7-f46d621b5e9f)
+)
 
 ### Social
 
