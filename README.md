@@ -1,4 +1,4 @@
-# Hello there!
+# Hello there! :waving_hand:
 
 ## My name is Audrey Evergreene. I am changing careers from healthcare into software engineering, focused on Front End web-develoment and based in Portland, Or.
 
@@ -9,7 +9,7 @@ Learning in progress: React, Next, CSS Frameworks, Design, OOP and Design Patter
   
 * *TypeScript | React | Next | NodeJs | Taliwind | Supabase | AuthoO | Vercel* *
     
-Goal: Many beginner programmers get caught in intense shame spirals while learning how to code. Applying my previous knowledge about thoughtwork, effecient learning and boosting executive functioning, I hope to help new developers have a kinder learning curve while learning their first language.
+Goal: Many beginner programmers get caught in negative spirals while learning how to code. Applying my previous knowledge about thoughtwork, effecient learning and boosting executive functioning, I hope to help new developers have a kinder learning curve while learning their first language.
     
 Built in collaboration with an amazing Fullstack developer, Kenson Johnson @kensonjohnson. It is connected to the backend, and deployed, but currently the content is minimal and a lot of components to build.
 
@@ -22,7 +22,7 @@ Built in collaboration with an amazing Fullstack developer, Kenson Johnson @kens
 JavaScript | HTML | CSS | SQL | Python | Kotlin
 
 #### Frontend Tools
-React | Next.js | Vite | Tailwind | Bootstrap | Vanilla CSS
+React | Next.js | Vite | Tailwind | Bootstrap | Vanilla CSS 
 
 #### Other Tools
 
@@ -49,7 +49,7 @@ JavaScript | React | GitHubAPI | Vercel | GraphQL | react-query
       
 Goal: To correlate symptoms against routine behavior in order to assess effectiveness of personal habits or food allergies
 
-Completed! This was a team project that won **Best Use of Github** in the *Hacks for Hackers* Hackathon (July 2023)
+Completed! This was a team project that won 🏆 __Best Use of Github__ in the *Hacks for Hackers* Hackathon (July 2023)
 
 [Github Repo](https://github.com/LadyAudrey/gitread) [Hackathon entry](https://devpost.com/software/gitread)
 
@@ -59,7 +59,7 @@ JavaScript | React | Express
       
 Goal: To track frequency of self care activities
 
-Team project that won __"Best Use of Github"__ in the "Tech Together Online* Hackathon (August 2023). I have used the UI Design in Self-Watch (see below)
+Team project that won 🏆 __"Best Use of Github"__ in the "Tech Together Online* Hackathon (August 2023). I have used the UI Design in Self-Watch (see below)
 
 [Github Repo](https://github.com/akebu6/SelfWatch)
 [Hackathon write up](https://devpost.com/software/selfwatch)
