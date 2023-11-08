@@ -47,7 +47,7 @@ Pair programming  with  a skilled Backend developer, @neumaneuma).
  
 JavaScript | React | GitHubAPI | Vercel | GraphQL | react-query
       
-Goal: To correlate symptoms against routine behavior in order to assess effectiveness of personal habits or food allergies
+Goal: Make deciphering and understanding a repo easier in the browser
 
 Completed! This was a team project that won 🏆 __Best Use of Github__ in the *Hacks for Hackers* Hackathon (July 2023)
 
