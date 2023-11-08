@@ -1,4 +1,4 @@
-# Hello there! :waving_hand:
+# Hello there! 👋
 
 ## My name is Audrey Evergreene. I am changing careers from healthcare into software engineering, focused on Front End web-develoment and based in Portland, Or.
 
@@ -96,8 +96,7 @@ Digital artist, always exploring, experimenting and learning
 
 Retired Massage Therapist, Personal Trainer and Wellness Clinic Manager
 
-![Digital artwork of an abstract sunrise](![risingSun](https://github.com/LadyAudrey/LadyAudrey/assets/105085549/4f053917-3144-4382-b9c7-f46d621b5e9f)
-)
+![Digital artwork of an abstract sunrise](![risingSun](https://github.com/LadyAudrey/LadyAudrey/assets/105085549/4f053917-3144-4382-b9c7-f46d621b5e9f))
 
 ### Social
 
