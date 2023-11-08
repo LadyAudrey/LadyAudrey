@@ -59,7 +59,7 @@ JavaScript | React | Express
       
 Goal: To track frequency of self care activities
 
-Team project that won 🏆 __"Best Use of Github"__ in the "Tech Together Online* Hackathon (August 2023). I have used the UI Design in Self-Watch (see below)
+Team project that won 🏆 __"Best Use of Github"__ in the *Tech Together Online* Hackathon (August 2023). I have used the UI Design in Self-Watch (see below)
 
 [Github Repo](https://github.com/akebu6/SelfWatch)
 [Hackathon write up](https://devpost.com/software/selfwatch)
@@ -74,7 +74,7 @@ UI and component mostly created. Portfolio component left and then deployment!
   
 [Github Repo]( https://github.com/LadyAudrey/portfolio)
 
-### Projects on Hold:
+### Projects on Hold 🕛:
 
 #### Taylor Swift fan site - Fun site to engage with other Swiftie fans
      
@@ -88,8 +88,8 @@ Combining 2 Vanilla JS sites into one React site. Plan to restart repo with Next
 
 ### Fun Facts
 
-A music major in French Horn performance in university
-Really enjoy PNW wilderness and camping
+A music major in French Horn performance in University 📯
+Really enjoy PNW wilderness and camping 🌲
 Digital artist, always exploring, experimenting and learning
 Retired Massage Therapist, Personal Trainer and Wellness Clinic Manager
 
