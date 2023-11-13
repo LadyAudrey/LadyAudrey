@@ -7,7 +7,7 @@ Learning in progress: React, Next, CSS Frameworks, Design, OOP and Design Patter
 ### Main Project in the Works:
 #### Debugging the Coders' Mind - A coding educational tool
   
-* *TypeScript | React | Next | NodeJs | Taliwind | Supabase | AuthoO | Vercel* *
+* *TypeScript | React | Next | NodeJs | Taliwind | Supabase | AuthO | Vercel* *
     
 Goal: Many beginner programmers get caught in negative spirals while learning how to code. Applying my previous knowledge about thoughtwork, effecient learning and boosting executive functioning, I hope to help new developers have a kinder learning curve while learning their first language.
     
