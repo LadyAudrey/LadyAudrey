@@ -4,7 +4,7 @@
 
 ### [Checkout my Portfolio site here](https://www.audreyevergreene.me/)
 
-Learning in progress: React, Next, CSS Frameworks, Design, OOP and Design Patterns, Data Structures and Algorithms.
+Learning in progress: React, Next, CSS Frameworks, Design, OOP and Design Patterns, Typescript, Data Structures and Algorithms.
 
 ### Finished Project:
 
