@@ -2,6 +2,8 @@
 
 ## My name is Audrey Evergreene. I am changing careers from healthcare into software engineering, focused on Front End web-develoment and based in Portland, Or.
 
+### [Checkout my Portfolio site here](https://www.audreyevergreene.me/)
+
 Learning in progress: React, Next, CSS Frameworks, Design, OOP and Design Patterns, Data Structures and Algorithms.
 
 ### Finished Project:
