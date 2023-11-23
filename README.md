@@ -56,15 +56,15 @@ Git | VSCode | Figma | Canva | GIMP
 
 ### Ongoing Projects:
 
-#### Portfolio - Site to showcase Frontend skills and projects
- 
-Typescript | React | Next | Taliwind
-      
-Goal: Beautiful UI to showcase my portfolio
-    
-UI and component mostly created. Portfolio component left and then deployment!
+#### Debugging the Coders' Mind - A coding educational tool
   
-[Github Repo]( https://github.com/LadyAudrey/portfolio)
+* *TypeScript | React | Next | NodeJs | Taliwind | Supabase | AuthO | Vercel* *
+    
+Goal: Many beginner programmers get caught in negative spirals while learning how to code. Applying my previous knowledge about thoughtwork, effecient learning and boosting executive functioning, I hope to help new developers have a kinder learning curve while learning their first language.
+    
+Built in collaboration with an amazing Fullstack developer, Kenson Johnson @kensonjohnson. It is connected to the backend, and deployed, but currently the content is minimal and a lot of components to build.
+
+[Live Site](https://debugging-the-coders-mind.vercel.app/login) [Github Repo](https://github.com/LadyAudrey/debugging_the_coders_mind)
 
 ### Hackathons, Opensource and Achievements:
 
@@ -79,16 +79,6 @@ Completed! This was a team project that won 🏆 __Best Use of Github__ in the *
 [Github Repo](https://github.com/LadyAudrey/gitread) [Hackathon entry](https://devpost.com/software/gitread)
 
 ### Projects on Hold 🕛:
-
-#### Debugging the Coders' Mind - A coding educational tool
-  
-* *TypeScript | React | Next | NodeJs | Taliwind | Supabase | AuthO | Vercel* *
-    
-Goal: Many beginner programmers get caught in negative spirals while learning how to code. Applying my previous knowledge about thoughtwork, effecient learning and boosting executive functioning, I hope to help new developers have a kinder learning curve while learning their first language.
-    
-Built in collaboration with an amazing Fullstack developer, Kenson Johnson @kensonjohnson. It is connected to the backend, and deployed, but currently the content is minimal and a lot of components to build.
-
-[Live Site](https://debugging-the-coders-mind.vercel.app/login) [Github Repo](https://github.com/LadyAudrey/debugging_the_coders_mind)
 
 #### Taylor Swift fan site - Fun site to engage with other Swiftie fans
      
