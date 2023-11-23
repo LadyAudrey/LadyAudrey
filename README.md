@@ -3,10 +3,11 @@
 ## My name is Audrey Evergreene. I am changing careers from healthcare into software engineering, focused on Front End web-develoment and based in Portland, Or.
 
 ### [Checkout my Portfolio site here](https://www.audreyevergreene.me/)
+#### [Portfolio Github Repo](https://github.com/LadyAudrey/portfolio)
 
 Learning in progress: React, Next, CSS Frameworks, Design, OOP and Design Patterns, Typescript, Data Structures and Algorithms.
 
-### Finished Project:
+### Finished Projects:
 
 #### WhimsyScript Club - An amusing website to help for coders
   
@@ -17,6 +18,16 @@ Goal: Help beginner programmers to debug and stay in an optimistic mindset.
 Status: Unsuccessfully deployed to Vercel. It is in Minimum Viable Product Status.
 
 [Live Site](https://whimsyscriptclub.vercel.app/) [Github Repo](https://github.com/LadyAudrey/whimsyscriptclub)
+
+#### Word Games - A site for finding palindromes, anagrams and answers to Scrabble
+  
+* *JavaScript | React | Bootstrap* *
+    
+Goal: Show knowledge of datastructures and algorithems in a basic React context
+    
+Status: Finished and deployed to Github Pages.
+
+[Live Site](https://ladyaudrey.github.io/HowtoWordGames/) [Github Repo](https://github.com/LadyAudrey/HowToWordGames)
 
 ### Main Project in the Works:
 
